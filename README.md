@@ -1,7 +1,7 @@
 # Eletronic Lock
 A firmware that simulates an electronic locking system, which must be activated from a password, where:
 - For each key pressed, the algorithm must show on the screen the number identified on the key (0,1,2,3, ... 9);
-- The * key serves as "Corrigir", that is, to delete all the numbers already entered, making it possible to enter again with a new set of numbers;
+- The * key serves as "undo", that is, to delete all the numbers already entered, making it possible to enter again with a new set of numbers;
 - The # key serves as "Enter", to send the numbers entered for processing.
 
 ## Basic operation
